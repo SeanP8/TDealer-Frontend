@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeForeground": "#2b2929",
+        "titleBar.inactiveForeground": "#ffffffcc",
+        "titleBar.activeBackground": "#c5e413d3",
+        "titleBar.inactiveBackground": "#ccfd2c81",
+        "sideBar.border": "#c1ff16",
+        "tab.hoverBackground": "#9eaf01a8",
+        "tab.hoverForeground": "#000000",
+    },
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+}
+
