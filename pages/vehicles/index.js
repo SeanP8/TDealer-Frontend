@@ -1,4 +1,4 @@
-import { useRouter } from "next/dist/client/router";
+import { useRouter } from "next/router";
 import Pagination from "../../components/Pagination";
 import Vehicles from "../../components/Vehicles";
 

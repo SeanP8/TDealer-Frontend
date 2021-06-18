@@ -4,7 +4,7 @@ import { perPage } from "../config";
 import styled from "styled-components";
 import Vehicle from "./Vehicle";
 
-const ALL_VEHICLE_QUERY = gql`
+export const ALL_VEHICLE_QUERY = gql`
     query ALL_VEHICLE_QUERY($skip: Int =0, $first: Int){
   allVehicles(first: $first, skip: $skip){
     id

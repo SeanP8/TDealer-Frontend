@@ -1,4 +1,4 @@
-import Link from 'next/Link';
+import Link from 'next/link';
 import { useCart } from '../lib/cartState';
 import SignOut from './SignOut';
 import NavStyles from './styles/NavStyles';
